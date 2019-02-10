@@ -71,6 +71,7 @@ class Installer extends LibraryInstaller
         'modx'         => 'ModxInstaller',
         'modxevo'      => 'MODXEvoInstaller',
         'moodle'       => 'MoodleInstaller',
+        'nip'          => 'NiPInstaller',
         'october'      => 'OctoberInstaller',
         'ontowiki'     => 'OntoWikiInstaller',
         'oxid'         => 'OxidInstaller',
